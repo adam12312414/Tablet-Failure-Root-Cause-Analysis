@@ -5,7 +5,12 @@
 ---
 
 ## 📘 Project Overview
+
+## 📘 Project Overview
 This Tableau dashboard investigates the **root causes of tablet weight and uniformity failures** observed during a pharmaceutical production process.  
+
+This project was developed in collaboration with **students from the Diploma in Pharmaceutical Science**, combining data analytics and pharmaceutical process knowledge to investigate tablet quality issues.
+
 The analysis identifies the relationship between **process parameters (time, temperature, humidity, and granule size)** and **tablet quality**, offering actionable insights to reduce product variation and improve stability.
 
 The dashboard uses visual storytelling to systematically evaluate test results, environmental conditions, and process metrics — leading to a clear conclusion and set of recommendations.
@@ -139,6 +144,9 @@ The analysis recommends keeping production temperature between **24.5 °C – 25
 **Adam Haizad Bin Mohamad Faizal**  
 Temasek Polytechnic – School of Informatics & IT  
 Diploma in Big Data & Analytics (T60)
+**Collaborators:** Students from the Diploma in Pharmaceutical Science  
+Temasek Polytechnic – School of Applied Science
+
 
 
 ## ⚠️ Disclaimer
