@@ -5,8 +5,6 @@
 ---
 
 ## 📘 Project Overview
-
-## 📘 Project Overview
 This Tableau dashboard investigates the **root causes of tablet weight and uniformity failures** observed during a pharmaceutical production process.  
 
 This project was developed in collaboration with **students from the Diploma in Pharmaceutical Science**, combining data analytics and pharmaceutical process knowledge to investigate tablet quality issues.
